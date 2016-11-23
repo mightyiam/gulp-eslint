@@ -45,7 +45,7 @@
   "author": "Adametry",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^0.13.0",
+    "eslint": "^3.10.2",
     "gulp-util": "^3.0.1",
     "map-stream": "^0.1.0",
     "through": "^2.3.4"
@@ -53,6 +53,6 @@
   "devDependencies": {
     "gulp": "*",
     "mocha": "*",
-    "should": "^4.0.4"
+    "should": "^11.1.1"
   }
 }
